@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+}
+
+html,body{
+  min-width:290px;
+    color: #4d4e53;
+    background-color: #ffffff;
+    font-family: 'Open Sans',Arial,sans-serif;
+    line-height: 1.5;
+    margin-left: 20px;
+}
+
+
+header{
+  color:black;
+  font-size: 30px;
+  margin:10px;
+  text-align:center;
+  font-size:1.8em;
+  font-weight:thin;
+}
