@@ -13,9 +13,9 @@ All code to be compiled goes into `./src/pre`. PostCSS, CoffeeScript and Pug are
     │   ├── post                # Contains files compiled using Gulp
     │       ├── index.html      # Compiled from ./pre/*.pug  
     │       ├── script.js       # Compiled from ./pre/*.coffee 
-    │       └── style.css       # Compiled from ./pre/*.css
-    └── gulpfile.js            
-    └── index.html              # Compiled from beautified index.html in ./post/*.html
+    │       └── style.css       # Compiled from ./pre/*.css        
+    └── index.html      
+    └── gulpfile.js             # Contains all Gulp tasks to be run
     └── package.json
 
 
