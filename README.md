@@ -3,7 +3,7 @@ mega-compiler utilizes Gulp to automatically watch and compile PostCSS, CoffeeSc
 
 ### File structure
 
-All code to be compiled goes into `./src/pre`. PostCSS, CoffeeScript and Pug are then output to `./src/post` and finally the new `index.html` is beautified and compiled in the root directory.
+All code to be compiled goes into `./src/pre`. PostCSS, CoffeeScript and Pug are then output to `./src/post`.
 
     ├── src                     # Folder containing all pre and post-compiled files
     │   ├── pre                 # Contains files to be compiled  
