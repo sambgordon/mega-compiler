@@ -27,3 +27,6 @@ All code to be compiled goes into `./src/pre`. PostCSS, CoffeeScript and Pug are
     const coffee =          require('gulp-coffee');
     const pug =             require('gulp-pug');
     const beautify =        require('gulp-beautify'); //beautify pug output
+
+
+[View on NPM](https://www.npmjs.com/package/mega-compiler)
