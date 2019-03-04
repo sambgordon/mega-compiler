@@ -2,7 +2,7 @@
 
 Mega Compiler
 -----by-----
-samuelbennett
+ sambennett
 
 edit index.html with pug via './pre/index.pug'
 edit js with coffeescript via './pre/script.coffee'
