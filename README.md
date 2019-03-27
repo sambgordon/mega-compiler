@@ -19,7 +19,7 @@ All code to be compiled goes into `./src/pre`. PostCSS, CoffeeScript and Pug are
 
 
 ### Requiring modules
-    const gulp =            require('gulp'); //this project uses gulp 3.9.1 - everything else is a devDependency
+    const gulp =            require('gulp');
     const postcss =         require('gulp-postcss');
     const autoprefixer =    require('gulp-autoprefixer'); //add vendor prefixes
     const browserSync  =    require('browser-sync').create(); //use browserSync to create server and reload page when gulp is run
