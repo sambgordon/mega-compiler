@@ -1,5 +1,5 @@
 # mega-compiler
-[mega-compiler](https://www.npmjs.com/package/mega-compiler) utilizes Gulp to automatically watch and compile PostCSS, CoffeeScript, Pug, and run beautification tasks. Browsersync is then used to create a server and reload the page any time a change is made to the files being watched.
+[mega-compiler](https://www.npmjs.com/package/mega-compiler) utilizes Gulp to automatically watch and compile PostCSS, CoffeeScript, Pug, and run other tasks. Browsersync is then used to create a server and reload the page any time a change is made to the files being watched.
 
 ### File structure
 
